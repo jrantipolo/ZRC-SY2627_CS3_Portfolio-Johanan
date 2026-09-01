@@ -4,7 +4,7 @@ class Hero:
         self.hp = hp
 
     def take_damage(self, dmgTaken)
-        self.hp = self.hp - self.dmgTaken
+        self.hp = self.hp - dmgTaken
 
 arthur = Hero("Arthur", 100)
 morgana = Hero("Morgana", 100)
