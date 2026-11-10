@@ -1,1 +1,1 @@
-refer to [this](q2/AbstractionActivity/Screenshot.png) for the screenshot
+refer to [this](Screenshot.png) for the screenshot
